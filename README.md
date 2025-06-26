@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NAYANJYOTI KUMAR</h1>
 
-<h2 align="center">A 2nd year Master's degree student in Computer Science at Gauhati University</h2>
+<h2 align="center">I hold a Master's degree in Computer Science from Gauhati University.</h2>
 
 <h3 align="center">A passionate Cyber-Security Enthusiastic from India</h3>
 
